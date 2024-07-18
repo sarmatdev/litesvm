@@ -2183,7 +2183,7 @@ version = "0.1.0"
 dependencies = [
  "bincode",
  "criterion",
- "indexmap 2.2.6",
+ "indexmap 1.9.3",
  "itertools 0.12.1",
  "log",
  "serde",
